@@ -1,0 +1,112 @@
+/* 
+header {
+    position: relative ;
+    height: 500px;
+    background: #ddd url(../project/img/4.jpg) no-repeat center;
+    background-size: cover;
+    margin: 0;
+}
+header h1 {
+    position: center;
+    display: block;
+    width: 0px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 60px;
+    top: 0;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 10px 0 15px;
+    background: rgba(255,255,255,0.4);
+    color: #555;
+}
+header h1 span {
+    color:yellow;
+}
+menu {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin-bottom: 50px;
+    background: #7c7d77;
+}
+menu ul {overflow: hidden; width: 800px; margin: 0 auto;}
+menu ul li {float: left;}
+menu ul li a {
+    display: block;
+    color: #fff;    
+    padding: 20px 30px 25px;
+    font-size: 20px;
+    text-decoration: none;
+}
+center {
+    width: 100%;
+    background: rgb(212, 209, 209);
+    margin-bottom: 50px;
+}
+page {
+    display: block;
+    width: calc(100%-60px);
+    text-align: left;
+    padding: 0 30px;
+    margin-bottom: 50px;
+}
+page h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #7c7d77;
+}
+page p {
+    color: #555;
+    font-size: 18px;
+}
+page q {
+    display: block;
+    color: #999;
+    margin-top: 10px;
+}
+page p span {
+    font-size: 28px; color: #ff0;
+}
+footer {
+    display: block;
+    overflow: hidden;
+    height: 300px;
+    background: #7c7d77;
+    color: #fff;
+    padding: 40px;
+}
+footer div {
+    position: relative;
+    display: block;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+footer div h6 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+footer div u1 { padding: 20px; }
+footer div ul li a {color: #fff;}
+footer div form {
+    display: block;
+    width: 100%;
+}
+footer div form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;  
+    border: none;
+}
+footer div form input.send {
+    width: 120px;
+}
+h5 {width: 600px;}
+button {color: #000; background-color: #7c7d77;}
+h5 {bottom: unset;} */
